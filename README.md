@@ -1,8 +1,10 @@
-# scratch-gui
-#### Scratch GUI is a set of React components that comprise the interface for creating and running Scratch 3.0 projects
+# ArcMod
+#### Simple Block coding UI thats kinda easy to set up, follow the instructions to launch it, i will make a tutorial video on how to do this later!
 
 ## Installation
 This requires you to have Git and Node.js installed.
+Git-https://git-scm.com/
+node.js-https://nodejs.org/en
 
 In your own node environment/application:
 ```bash
@@ -15,7 +17,6 @@ cd scratch-gui
 npm install
 ```
 
-**You may want to add `--depth=1` to the `git clone` command because there are some [large files in the git repository history](https://github.com/LLK/scratch-gui/issues/5140).**
 
 ## Getting started
 Running the project requires Node.js to be installed.
